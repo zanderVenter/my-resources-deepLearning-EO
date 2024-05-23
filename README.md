@@ -1,2 +1,22 @@
 # my-resources-deepLearning-EO
-Gathering all the resources I used in learning deep learning for earth observation
+Gathering all the resources I used in learning deep learning for earth observation. I have focussed on Pytorch implementations.
+
+## Other useful catalogues of deep learning resources
+- [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning) - annotation, datasets, model-training-and-deployment, software, techniques all related to deep learning applied to satellite and aerial imagery.
+- [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+- [Awesome_Satellite_Benchmark_Datasets](https://github.com/Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets) - To the best of our knowledge, and to the best of our findings, until May 2021, the following graph displays more than 90% of the benchmark datasets in remote sensing and photogrammetry.
+- [torchrs](https://github.com/isaaccorley/torchrs) - PyTorch implementation of popular datasets and models in remote sensing
+- [torchgeo datasets](https://github.com/microsoft/torchgeo/tree/main/torchgeo/datasets) - benchmark and other datasets that have been integrated into torchgeo
+
+## Courses and tutorials I have completed
+- [Udemy course: PyTorch for Deep Learning and Computer Vision](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/?couponCode=LEADERSALE24A)
+- [Mauricio Cordeiro's end-to-end Pytorch tutorial](https://www.geocorner.net/post/artificial-intelligence-for-geospatial-analysis-with-pytorch-s-torchgeo-part-1)
+- [Youtube videos from 3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+## Next steps for me
+- [test out some segmentation_models_pytorch examples](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
+- [try out DynamicEarthNet change detection](https://github.com/aysim/dynnet)
+
+## Code snippets and helpers I have used so far and plan to use
+- [Earth_Engine_training_patches_computePixels.ipynb](https://github.com/google/earthengine-community/blob/master/guides/linked/Earth_Engine_training_patches_computePixels.ipynb)
+- [Glenn Moncrieff's TempCNN](https://github.com/GMoncrieff/renosterveld-monitor/blob/main/02_model_fit.ipynb) - although this is in TensorFlow it may still be useful
