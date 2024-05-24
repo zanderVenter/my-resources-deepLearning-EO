@@ -16,6 +16,7 @@ Gathering all the resources I used in learning deep learning for earth observati
 ## Next steps for me
 - [test out some segmentation_models_pytorch examples](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
 - [try out DynamicEarthNet change detection](https://github.com/aysim/dynnet)
+- [try replicate this Landsat-based TempCNN and Transformer for change detection](https://github.com/Patawaitte/FoDiM/tree/main)
 
 ## Code snippets and helpers I have used so far and plan to use
 - [Earth_Engine_training_patches_computePixels.ipynb](https://github.com/google/earthengine-community/blob/master/guides/linked/Earth_Engine_training_patches_computePixels.ipynb)
