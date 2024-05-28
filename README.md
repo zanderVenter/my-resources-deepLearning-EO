@@ -10,8 +10,9 @@ Gathering all the resources I used in learning deep learning for earth observati
 
 ## Courses and tutorials I have completed
 - [Udemy course: PyTorch for Deep Learning and Computer Vision](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/?couponCode=LEADERSALE24A)
-- [Mauricio Cordeiro's end-to-end Pytorch tutorial](https://www.geocorner.net/post/artificial-intelligence-for-geospatial-analysis-with-pytorch-s-torchgeo-part-1)
 - [Youtube videos from 3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Mauricio Cordeiro's end-to-end Pytorch tutorial](https://www.geocorner.net/post/artificial-intelligence-for-geospatial-analysis-with-pytorch-s-torchgeo-part-1)
+    - dfsdf
 
 ## Next steps for me
 - [test out some segmentation_models_pytorch examples](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
