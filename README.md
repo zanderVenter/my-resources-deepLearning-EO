@@ -12,7 +12,10 @@ Gathering all the resources I used in learning deep learning for earth observati
 - [Udemy course: PyTorch for Deep Learning and Computer Vision](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/?couponCode=LEADERSALE24A)
 - [Youtube videos from 3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Mauricio Cordeiro's end-to-end Pytorch tutorial](https://www.geocorner.net/post/artificial-intelligence-for-geospatial-analysis-with-pytorch-s-torchgeo-part-1)
-    - dfsdf
+    - Ran through original
+    - Adjusted to include ResNet34 instead of the default ResNet50. I used [segmentation_models_pytorch](https://github.com/qubvel/segmentation_models.pytorch) after recommendation from Geethen.
+    - Adjusted to make inference on new images
+    - Adjusted to cater for multi-class land cover segmentation
 
 ## Next steps for me
 - [test out some segmentation_models_pytorch examples](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
