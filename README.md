@@ -19,7 +19,7 @@ Gathering all the resources I used in learning deep learning for earth observati
         - Played around with image patch sizes
         - visualizing predictions alongside validation labels
         - exploring over-fitting by plotting training and validation loss
-        - tried pre-trained weights for encoder initialization - from ImageNet
+        - tried pre-trained weights for encoder initialization - from ImageNet (didn't really help - made more blobby)
         - (todo) try different encoder like DeepLabV3+ to help resolve smaller landscape features
         - (todo) try data augmentation
         - (todo) extract class-wise probability scores
