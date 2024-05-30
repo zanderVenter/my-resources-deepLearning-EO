@@ -27,6 +27,7 @@ Gathering all the resources I used in learning deep learning for earth observati
 
 ## Next steps for me
 - [Do this Pytorch course](https://www.learnpytorch.io/)
+- [Test out foundational EO models like prithvi using terratorch](https://ibm.github.io/terratorch/?)
 - [test out some segmentation_models_pytorch examples](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
 - [try out DynamicEarthNet change detection](https://github.com/aysim/dynnet)
 - [try replicate this Landsat-based TempCNN and Transformer for change detection](https://github.com/Patawaitte/FoDiM/tree/main)
