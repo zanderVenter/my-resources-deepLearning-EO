@@ -23,7 +23,7 @@ Gathering all the resources I used in learning deep learning for earth observati
         - try different architecture like DeepLabV3+ (coded for in original tutorial, but without smp) instead of U-Net to help resolve smaller landscape features (didn't really help - made more blobby)
         - (to do) try other loss functions - like torch.nn.CrossEntropyLoss which is more suitable for multi-class classification
         - (todo) try data augmentation
-        - (todo) extract class-wise probability scores
+        - (todo) extract class-wise probability scores - convert logits to class probabilities using softmax function
         - (todo) Geethen suggested trying [FeatUp](https://github.com/mhamilton723/FeatUp) to try address the blobbiness issue
 
 ## Next steps for me
