@@ -27,7 +27,7 @@ Gathering all the resources I used in learning deep learning for earth observati
         - (todo) Geethen suggested trying [FeatUp](https://github.com/mhamilton723/FeatUp) to try address the blobbiness issue
 
 ## Next steps for me
-- [Do this Pytorch course](https://www.learnpytorch.io/)
+- Do this course: [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 - [Test out foundational EO models like prithvi using terratorch](https://ibm.github.io/terratorch/?)
 - [test out some segmentation_models_pytorch examples](https://segmentation-modelspytorch.readthedocs.io/en/latest/)
 - [try out DynamicEarthNet change detection](https://github.com/aysim/dynnet)
