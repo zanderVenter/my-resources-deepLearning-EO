@@ -7,6 +7,7 @@ Gathering all the resources I used in learning deep learning for earth observati
 - [Awesome_Satellite_Benchmark_Datasets](https://github.com/Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets) - To the best of our knowledge, and to the best of our findings, until May 2021, the following graph displays more than 90% of the benchmark datasets in remote sensing and photogrammetry.
 - [torchrs](https://github.com/isaaccorley/torchrs) - PyTorch implementation of popular datasets and models in remote sensing
 - [torchgeo datasets](https://github.com/microsoft/torchgeo/tree/main/torchgeo/datasets) - benchmark and other datasets that have been integrated into torchgeo
+- [A collection of PyTorch-specific resources from mrdbourke](https://www.learnpytorch.io/pytorch_extra_resources/)
 
 ## Courses and tutorials I have completed
 - [Udemy course: PyTorch for Deep Learning and Computer Vision](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/?couponCode=LEADERSALE24A)
