@@ -2,6 +2,7 @@
 Gathering all the resources I used in learning deep learning for earth observation. I have focussed on Pytorch implementations.
 
 ## Other useful catalogues of deep learning resources
+- [Change detection resources](https://github.com/likyoo/open-cd)
 - [satellite-image-deep-learning](https://github.com/satellite-image-deep-learning) - annotation, datasets, model-training-and-deployment, software, techniques all related to deep learning applied to satellite and aerial imagery.
 - [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
 - [Awesome_Satellite_Benchmark_Datasets](https://github.com/Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets) - To the best of our knowledge, and to the best of our findings, until May 2021, the following graph displays more than 90% of the benchmark datasets in remote sensing and photogrammetry.
